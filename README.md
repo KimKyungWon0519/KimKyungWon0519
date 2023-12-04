@@ -17,4 +17,5 @@
 - [Daegu Software Meister High School](https://dgsw.dge.hs.kr/dgswh/main.do?sysId=dgswh) (2019.03 ~ 2022.03)
 
 ### More
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimKyungWon0519&hide=HTML,SWIFT)
+![](https://raw.githubusercontent.com/KimKyungWon0519/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/KimKyungWon0519/github-stats-transparent/output/generated/languages.svg)
