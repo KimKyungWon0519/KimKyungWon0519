@@ -10,7 +10,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%230175C2.svg?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### Careers
-- [Polaris3d](https://ereon.kr/) Flutter Application Developer (2022.02 ~ Current)
+- [Polaris3d](https://ereon.kr/) Flutter Application Developer (2022.02 ~ 2024.01)
 - [ImSystem](https://imsystem.kr/?lang=ko) GUI Application Developer (2021.11 ~ 2022.01)
 
 ### Educations
